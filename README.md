@@ -5,7 +5,7 @@ Username dicoding: zizz1181
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Fake and real news dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) |
+| Dataset | Dataset yang digunakan pada proyek ini dapat diakses pada [tautan](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) berikut ini|
 | Masalah | Zaman sekarang sering sekali berita yang disebarluaskan bukan merupakan berita yang benar-benar terjadi direalitanya, hal ini menimbulkan opini negatif dan masyarakat yang sering menerima berita palsu akan bingung dalam membedakan berita faktual dan berita palsu (hoax) |
 | Solusi machine learning | Maka dari itu dibutuhkan sebuah sistem machine learning yang dapat mendeteksi kepalsuan dari sebuah berita |
 | Metode pengolahan | Metode pengolahan data yang digunakan pada proyek ini berupa tokenisasi fitur input (text dari sebuah berita) yang awalnya berupa text diubah menjadi susunan angka yang merepresentasikan text tersebut agar dapat dengan mudah dimengerti oleh model |
